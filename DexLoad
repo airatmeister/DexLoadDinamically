@@ -1,0 +1,4 @@
+Injector-android
+https://github.com/artyomd/Injector/blob/master/injector-android/src/main/java/app/artyomd/injector/DexUtils.java
+public static void loadDex(Context context, List<File> list)
+DexUtils.loadDex(context, listOfDexFiles);
